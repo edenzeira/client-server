@@ -1,7 +1,7 @@
-# 🚨 SPL Assignment 3 – STOMP Emergency Messaging System
+# 🚨 STOMP Emergency Messaging System
 
 This project implements an emergency communication platform using the STOMP protocol over TCP.  
-It includes a **Java-based server** and a **C++ multithreaded client**, and was developed as part of the SPL 251 course at Ben-Gurion University.
+It includes a **Java-based server** and a **C++ multithreaded client**.
 
 ---
 
